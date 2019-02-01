@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011796801000",
+  "news_prearranged_time": "2019-01-31 16:30:00",
+  "title": "タイのバンコク　空気がとても汚いため学校を休みにする",
+  "title_with_ruby": "タイのバンコク　<ruby>空気<rt>くうき</rt></ruby>がとても<ruby>汚<rt>きたな</rt></ruby>いため<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みにする",
+  "outline_with_ruby": "<p>タイの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>首都<rt>しゅと</rt></ruby></a>バンコクとその<ruby>近<rt>ちか</rt></ruby>くでは、しばらく<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていません。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190130/../20190130/K10011796801_1901301751_1901301800_01_03.jpg",
+  "news_web_movie_uri": "k10011796801_201901301751_201901301753.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011796801000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011796801000/k10011796801000.html"
+}

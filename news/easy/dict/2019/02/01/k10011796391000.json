@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。",
+          "hyouki": [
+            "作品"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。",
+          "hyouki": [
+            "江戸時代"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。",
+          "hyouki": [
+            "画家"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。",
+          "hyouki": [
+            "テーマ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>骨組</rb><rt>ほねぐ</rt></ruby>みの<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>から<ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>った<ruby><rb>建具</rb><rt>たてぐ</rt></ruby>。ふすま<ruby><rb>障子</rb><rt>しょうじ</rt></ruby>。からかみ。",
+          "hyouki": [
+            "ふすま"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>卵</rb><rt>たまご</rt></ruby>の<ruby><rb>身</rb><rt>み</rt></ruby>の、<ruby><rb>白</rb><rt>しろ</rt></ruby>いところ。",
+          "hyouki": [
+            "白身"
+          ]
+        },
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>の<ruby><rb>身</rb><rt>み</rt></ruby>が<ruby><rb>白</rb><rt>しろ</rt></ruby>いところ。",
+          "hyouki": [
+            "白身"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、おもに<ruby><rb>卵</rb><rt>たまご</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をとるために、<ruby><rb>飼</rb><rt>か</rt></ruby>われるもの。<ruby><rb>雄</rb><rt>おす</rt></ruby>は、とさかが<ruby><rb>大</rb><rt>おお</rt></ruby>きい。",
+          "hyouki": [
+            "鶏"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、ニワトリの<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "ひよこ"
+          ]
+        },
+        {
+          "def": "まだ<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>せず、<ruby><rb>幼稚</rb><rt>ようち</rt></ruby>なもの。",
+          "hyouki": [
+            "ひよこ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などの、<ruby><rb>後</rb><rt>うし</rt></ruby>ろの<ruby><rb>景色</rb><rt>けしき</rt></ruby>。バック。",
+          "hyouki": [
+            "背景"
+          ]
+        },
+        {
+          "def": "<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>で、<ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろの<ruby><rb>景色</rb><rt>けしき</rt></ruby>。",
+          "hyouki": [
+            "背景"
+          ]
+        },
+        {
+          "def": "<ruby><rb>裏</rb><rt>うら</rt></ruby>にかくれている<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "背景"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>金</rb><rt>きん</rt></ruby>のように<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>く<ruby><rb>光</rb><rt>ひか</rt></ruby>っている<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "金色"
+          ]
+        }
+      ]
+    }
+  }
+}

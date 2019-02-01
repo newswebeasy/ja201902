@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "EU"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>輸入</rb><rt>ゆにゅう</rt></ruby>する<ruby><rb>品物</rb><rt>しなもの</rt></ruby>に<ruby><rb>国</rb><rt>くに</rt></ruby>がかける<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>。",
+          "hyouki": [
+            "関税"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。",
+          "hyouki": [
+            "ワイン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて、<ruby><rb>固</rb><rt>かた</rt></ruby>めた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "チーズ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>皮</rb><rt>かわ</rt></ruby>から<ruby><rb>毛</rb><rt>け</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>き、やわらかくなめしたもの。",
+          "hyouki": [
+            "革"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>米</rb><rt>こめ</rt></ruby>から<ruby><rb>造</rb><rt>つく</rt></ruby>る、<ruby><rb>日本特有</rb><rt>にっぽんとくゆう</rt></ruby>の<ruby><rb>酒</rb><rt>さけ</rt></ruby>。<ruby><rb>清酒</rb><rt>せいしゅ</rt></ruby>。",
+          "hyouki": [
+            "日本酒"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>でふつうに<ruby><rb>飲</rb><rt>の</rt></ruby>んでいる<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>のお<ruby><rb>茶</rb><rt>ちゃ</rt></ruby>。",
+          "hyouki": [
+            "緑茶"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}

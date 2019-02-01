@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>や<ruby><rb>気体</rb><rt>きたい</rt></ruby>のこい、うすいの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。",
+          "hyouki": [
+            "濃度"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。",
+          "hyouki": [
+            "WHO"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとを<ruby><rb>比</rb><rt>くら</rt></ruby>べるとき、そのもととなるよりどころ。<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。",
+          "hyouki": [
+            "基準"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもに、<ruby><rb>集団生活</rb><rt>しゅうだんせいかつ</rt></ruby>に<ruby><rb>慣</rb><rt>な</rt></ruby>れさせるため、いろいろのことを<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "幼稚園"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>がしげきされて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>息</rb><rt>いき</rt></ruby>。",
+          "hyouki": [
+            "咳"
+          ]
+        }
+      ]
+    }
+  }
+}

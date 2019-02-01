@@ -1,0 +1,138 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。",
+          "hyouki": [
+            "チケット"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>申</rb><rt>もう</rt></ruby>しこむこと。",
+          "hyouki": [
+            "申し込み"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。",
+          "hyouki": [
+            "登録"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。",
+          "hyouki": [
+            "競技"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "くじ<ruby><rb>引</rb><rt>び</rt></ruby>き。",
+          "hyouki": [
+            "抽選"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>走</rb><rt>はし</rt></ruby>る・<ruby><rb>投</rb><rt>な</rt></ruby>げる・<ruby><rb>跳</rb><rt>と</rt></ruby>ぶなどのスポーツ。トラックとフィールドの<ruby><rb>二種類</rb><rt>にしゅるい</rt></ruby>がある。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>。",
+          "hyouki": [
+            "陸上競技"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "男子"
+          ]
+        },
+        {
+          "def": "おとこ。",
+          "hyouki": [
+            "男子"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "決勝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>第</rb><rt>だい</rt></ruby><ruby><rb>一位</rb><rt>いちい</rt></ruby>のものを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "決勝"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ]
+    }
+  }
+}

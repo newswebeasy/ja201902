@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で、だいじにするように<ruby><rb>決</rb><rt>き</rt></ruby>められている、めずらしい<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>のこと。<ruby><rb>例</rb><rt>たと</rt></ruby>えば、<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>の<ruby><rb>阿寒湖</rb><rt>あかんこ</rt></ruby>のマリモなど。",
+          "hyouki": [
+            "天然記念物"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>羊毛</rb><rt>ようもう</rt></ruby>などで<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。",
+          "hyouki": [
+            "毛布"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>などにすみ、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>食</rb><rt>く</rt></ruby>いあらす<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。ノネズミ・イエネズミ・ハツカネズミなどがいる。",
+          "hyouki": [
+            "鼠"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>森林</rb><rt>しんりん</rt></ruby>にすむ<ruby><rb>小形</rb><rt>こがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>毛</rb><rt>け</rt></ruby>は、<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>で、<ruby><rb>尾</rb><rt>お</rt></ruby>が<ruby><rb>太</rb><rt>ふと</rt></ruby>く<ruby><rb>長</rb><rt>なが</rt></ruby>く、<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>り<ruby><rb>回</rb><rt>まわ</rt></ruby>る。",
+          "hyouki": [
+            "りす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>がら、<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>などが、<ruby><rb>石</rb><rt>いし</rt></ruby>のようになって<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>っているもの。",
+          "hyouki": [
+            "化石"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "博物館"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "もとの<ruby><rb>所</rb><rt>ところ</rt></ruby>へもどらせる。<ruby><rb>帰</rb><rt>かえ</rt></ruby>らせる。",
+          "hyouki": [
+            "帰す"
+          ]
+        }
+      ]
+    }
+  }
+}
