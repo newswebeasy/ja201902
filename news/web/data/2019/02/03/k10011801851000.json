@@ -99,17 +99,27 @@
       "title": "海賊版サイト なぜ閲覧を規制？",
       "time": "サクサク経済Ｑ＆Ａ 4月24日",
       "datetime": "2018-04-24"
+    },
+    {
+      "link": "https://www3.nhk.or.jp/news/special/international-news/breakfast/",
+      "title": "朝食前のあなたに…ちょっと気になる国際ニュース",
+      "time": "",
+      "datetime": ""
     }
   ],
   "word": [
     {
       "link": "word/0000022.html",
       "title": "エンタメ"
+    },
+    {
+      "link": "word/0000563.html",
+      "title": "国際４"
     }
   ],
   "news_id": "k10011801851000",
   "yyyy": "2019",
   "mm": "02",
   "dd": "03",
-  "url": "https://www3.nhk.or.jp/news/html/20190203/k10011801851000.html?utm_int=news-new_contents_list-items_002"
+  "url": "https://www3.nhk.or.jp/news/html/20190203/k10011801851000.html"
 }

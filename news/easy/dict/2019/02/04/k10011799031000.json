@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>染色体</rb><rt>せんしょくたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝</rb><rt>いでん</rt></ruby>のはたらきをする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "遺伝子"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まり、<ruby><rb>台所</rb><rt>だいどころ</rt></ruby>・<ruby><rb>便所</rb><rt>べんじょ</rt></ruby>などを<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>回</rb><rt>まわ</rt></ruby>る<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。イエバエなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。ばいきんを<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>害虫</rb><rt>がいちゅう</rt></ruby>。はい。",
+          "hyouki": [
+            "蠅"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>からできている、ごく<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ウイルスよりも<ruby><rb>大</rb><rt>おお</rt></ruby>きい。<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになる<ruby><rb>病原菌</rb><rt>びょうげんきん</rt></ruby>や、<ruby><rb>物</rb><rt>もの</rt></ruby>をはっこうさせる<ruby><rb>乳酸菌</rb><rt>にゅうさんきん</rt></ruby>、くさらせるふはい<ruby><rb>菌</rb><rt>きん</rt></ruby>などがある。バクテリア。",
+          "hyouki": [
+            "細菌"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>がうつること。",
+          "hyouki": [
+            "感染"
+          ]
+        },
+        {
+          "def": "よくない<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けて、そのようになること。",
+          "hyouki": [
+            "感染"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>にかかりにくくしている<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらき。<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>その<ruby><rb>病気</rb><rt>びょうき</rt></ruby>にかかったり、<ruby><rb>予防接種</rb><rt>よぼうせっしゅ</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けたりするとできる。",
+          "hyouki": [
+            "免疫"
+          ]
+        },
+        {
+          "def": "それに<ruby><rb>慣</rb><rt>な</rt></ruby>れてしまって、<ruby><rb>気</rb><rt>き</rt></ruby>にしなくなること。",
+          "hyouki": [
+            "免疫"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる、いろいろなしげき。そのために<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>や<ruby><rb>気分</rb><rt>きぶん</rt></ruby>が、ふだんと<ruby><rb>変</rb><rt>か</rt></ruby>わる。",
+          "hyouki": [
+            "ストレス"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ]
+    }
+  }
+}

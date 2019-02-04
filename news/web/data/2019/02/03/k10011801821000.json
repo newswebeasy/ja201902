@@ -37,16 +37,6 @@
       "iconPath": "html/20190131/K10011798731_1901312118_1901312124_02_01.jpg",
       "video": "",
       "duration": 0
-    },
-    {
-      "link": "html/20190128/k10011794231000.html",
-      "title": "春節前に訪日ビザ発給ピーク 中国 上海",
-      "date": "1月28日  17時21分",
-      "datetime": "2019-01-28T17:21",
-      "imgPath": "html/20190128/K10011794231_1901281657_1901281721_01_02.jpg",
-      "iconPath": "html/20190128/K10011794231_1901281657_1901281721_02_01.jpg",
-      "video": "https://www3.nhk.or.jp/news/html/20190128/movie/k10011794231_201901281814_201901281830.html",
-      "duration": 67
     }
   ],
   "relationLink": [
@@ -74,5 +64,5 @@
   "yyyy": "2019",
   "mm": "02",
   "dd": "03",
-  "url": "https://www3.nhk.or.jp/news/html/20190203/k10011801821000.html?utm_int=news-new_contents_list-items_001"
+  "url": "https://www3.nhk.or.jp/news/html/20190203/k10011801821000.html"
 }

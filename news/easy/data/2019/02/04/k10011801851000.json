@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011801851000",
+  "news_prearranged_time": "2019-02-04 16:40:00",
+  "title": "「未来のミライ」がアメリカでアニメ映画の賞をもらう",
+  "title_with_ruby": "「<ruby>未来<rt>みらい</rt></ruby>のミライ」がアメリカでアニメ<ruby>映画<rt>えいが</rt></ruby>の<ruby>賞<rt>しょう</rt></ruby>をもらう",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>アニメ</a>の「アカデミー<ruby>賞<rt>しょう</rt></ruby>」と<ruby>言<rt>い</rt></ruby>われている「アニー<ruby>賞<rt>しょう</rt></ruby>」は、<a href='javascript:void(0)' class='dicWin' id='id-0000'>アニメ</a>のすばらしい<ruby>映画<rt>えいが</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>監督<rt>かんとく</rt></ruby></a>などに<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>贈<rt>おく</rt></ruby>る</a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>賞<rt>しょう</rt></ruby></a>で、１９７２<ruby>年<rt>ねん</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190203/../20190203/K10011801851_1902031505_1902031505_01_02.jpg",
+  "news_web_movie_uri": "k10011801851_201902031528_201902031529.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011801851000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011801851000/k10011801851000.html"
+}

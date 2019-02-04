@@ -1,0 +1,128 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。",
+          "hyouki": [
+            "爆発"
+          ]
+        },
+        {
+          "def": "おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。",
+          "hyouki": [
+            "爆発"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>立春</rb><rt>りっしゅん</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>日</rb><rt>ひ</rt></ruby>、<ruby><rb>二月三日</rb><rt>にがつみっか</rt></ruby>ごろ。<ruby><rb>豆</rb><rt>まめ</rt></ruby>まきをする<ruby><rb>習</rb><rt>なら</rt></ruby>わしがある。",
+          "hyouki": [
+            "節分"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。",
+          "hyouki": [
+            "鮨・",
+            "鮓・",
+            "寿司"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになるもの。<ruby><rb>多</rb><rt>おお</rt></ruby>くは、もとの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>残</rb><rt>のこ</rt></ruby>っている<ruby><rb>場合</rb><rt>ばあい</rt></ruby>にいう。",
+          "hyouki": [
+            "材料"
+          ]
+        },
+        {
+          "def": "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>・<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>などのもとになるもの。",
+          "hyouki": [
+            "材料"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>海中</rb><rt>かいちゅう</rt></ruby>の<ruby><rb>岩</rb><rt>いわ</rt></ruby>などにコケのようについている<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>。アサクサノリ・アオノリなど。",
+          "hyouki": [
+            "海苔"
+          ]
+        },
+        {
+          "def": "アサクサノリなどを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>のようにうすくのばして、かわかした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "海苔"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。",
+          "hyouki": [
+            "巻く"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。",
+          "hyouki": [
+            "願う"
+          ]
+        }
+      ]
+    }
+  }
+}
