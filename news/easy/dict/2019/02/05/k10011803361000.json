@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。",
+          "hyouki": [
+            "総理大臣"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "EU"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>輸入</rb><rt>ゆにゅう</rt></ruby>する<ruby><rb>品物</rb><rt>しなもの</rt></ruby>に<ruby><rb>国</rb><rt>くに</rt></ruby>がかける<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>。",
+          "hyouki": [
+            "関税"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>をそれぞれ<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てること。また、<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てられた<ruby><rb>役</rb><rt>やく</rt></ruby>。",
+          "hyouki": [
+            "役割"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ]
+    }
+  }
+}

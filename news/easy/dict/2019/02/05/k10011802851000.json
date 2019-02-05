@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "かたち。<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "像"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。",
+          "hyouki": [
+            "像"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "観光地"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>家畜</rb><rt>かちく</rt></ruby>として<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われる<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>力</rb><rt>ちから</rt></ruby>が<ruby><rb>強</rb><rt>つよ</rt></ruby>く、<ruby><rb>走</rb><rt>はし</rt></ruby>るのがはやい。<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運搬</rb><rt>うんぱん</rt></ruby>や<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>、<ruby><rb>競馬</rb><rt>けいば</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "馬"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。",
+          "hyouki": [
+            "願う"
+          ]
+        }
+      ]
+    }
+  }
+}

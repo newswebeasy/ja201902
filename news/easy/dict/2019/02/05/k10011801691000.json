@@ -1,0 +1,240 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。",
+          "hyouki": [
+            "金属"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。",
+          "hyouki": [
+            "作品"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "展示"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>管</rb><rt>くだ</rt></ruby>。ガスや<ruby><rb>水</rb><rt>みず</rt></ruby>などを<ruby><rb>送</rb><rt>おく</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>管</rb><rt>くだ</rt></ruby>。",
+          "hyouki": [
+            "パイプ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のたばこをすう<ruby><rb>用具</rb><rt>ようぐ</rt></ruby>。",
+          "hyouki": [
+            "パイプ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>通</rb><rt>つう</rt></ruby>じ<ruby><rb>合</rb><rt>あ</rt></ruby>うようにすること。",
+          "hyouki": [
+            "パイプ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "たおしてもすぐ<ruby><rb>起</rb><rt>お</rt></ruby>き<ruby><rb>上</rb><rt>あ</rt></ruby>がるように、<ruby><rb>底</rb><rt>そこ</rt></ruby>におもりを<ruby><rb>入</rb><rt>い</rt></ruby>れた、だるま<ruby><rb>形</rb><rt>がた</rt></ruby>の<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。",
+          "hyouki": [
+            "起き上がり小法師"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>い。<ruby><rb>平均</rb><rt>へいきん</rt></ruby>。",
+          "hyouki": [
+            "バランス"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ころころと<ruby><rb>回</rb><rt>まわ</rt></ruby>って<ruby><rb>動</rb><rt>うご</rt></ruby>く。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。",
+          "hyouki": [
+            "転がる"
+          ]
+        },
+        {
+          "def": "たおれる。<ruby><rb>転</rb><rt>ころ</rt></ruby>ぶ。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。",
+          "hyouki": [
+            "転がる"
+          ]
+        },
+        {
+          "def": "いくらでもある。",
+          "hyouki": [
+            "転がる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "まっすぐなものをまっすぐでないようにする。",
+          "hyouki": [
+            "曲げる"
+          ]
+        },
+        {
+          "def": "ゆがめる。わざと<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "曲げる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>からいちばん<ruby><rb>遠</rb><rt>とお</rt></ruby>い<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。はじ。",
+          "hyouki": [
+            "端"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>。",
+          "hyouki": [
+            "端"
+          ]
+        },
+        {
+          "def": "<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>捨</rb><rt>す</rt></ruby>てたところ。",
+          "hyouki": [
+            "端"
+          ]
+        },
+        {
+          "def": "つぎつぎと。",
+          "hyouki": [
+            "端"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>鉄鉱石</rb><rt>てっこうせき</rt></ruby>から<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。かたくて<ruby><rb>使</rb><rt>つか</rt></ruby>いみちが<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "かたくて<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>のこと。",
+          "hyouki": [
+            "鉄"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。",
+          "hyouki": [
+            "巻く"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "ころころと<ruby><rb>回</rb><rt>まわ</rt></ruby>って<ruby><rb>動</rb><rt>うご</rt></ruby>く。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。",
+          "hyouki": [
+            "転がる"
+          ]
+        },
+        {
+          "def": "たおれる。<ruby><rb>転</rb><rt>ころ</rt></ruby>ぶ。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。",
+          "hyouki": [
+            "転がる"
+          ]
+        },
+        {
+          "def": "いくらでもある。",
+          "hyouki": [
+            "転がる"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>建築</rb><rt>けんちく</rt></ruby>など、<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>形</rb><rt>かたち</rt></ruby>で<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>する<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>。",
+          "hyouki": [
+            "美術"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。",
+          "hyouki": [
+            "つながる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。",
+          "hyouki": [
+            "つながる"
+          ]
+        }
+      ]
+    }
+  }
+}

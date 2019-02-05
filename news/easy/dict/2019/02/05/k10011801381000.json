@@ -1,0 +1,144 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>にできるイモを<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>のはじめ、<ruby><rb>白</rb><rt>しろ</rt></ruby>またはうすむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。ばれいしょ。",
+          "hyouki": [
+            "じゃがいも"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>火薬</rb><rt>かやく</rt></ruby>をつめて、<ruby><rb>投</rb><rt>な</rt></ruby>げたり<ruby><rb>落</rb><rt>お</rt></ruby>としたりして<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させる<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。",
+          "hyouki": [
+            "爆弾"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。",
+          "hyouki": [
+            "金属"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。",
+          "hyouki": [
+            "直径"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "１９１４<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９１８<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、ドイツ・オーストリアなどの<ruby><rb>同盟国</rb><rt>どうめいこく</rt></ruby>とイギリス・フランス・ロシア・アメリカ・<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>などの<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われた<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。ドイツ<ruby><rb>側</rb><rt>がわ</rt></ruby>が<ruby><rb>敗</rb><rt>やぶ</rt></ruby>れて<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "第一次世界大戦"
+          ]
+        }
+      ]
+    }
+  }
+}

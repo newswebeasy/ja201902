@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011803361000",
+  "news_prearranged_time": "2019-02-05 16:15:00",
+  "title": "日本とドイツの首相「経済の関係を強くする」",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>とドイツの<ruby>首相<rt>しゅしょう</rt></ruby>「<ruby>経済<rt>けいざい</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くする」",
+  "outline_with_ruby": "<p>ドイツのメルケル<ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>安倍<rt>あべ</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>総理大臣<rt>そうりだいじん</rt></ruby></a>と<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はなし</rt></ruby>をしました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190204/../20190204/K10011803361_1902041913_1902041921_01_02.jpg",
+  "news_web_movie_uri": "k10011803361_201902041928_201902041930.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011803361000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011803361000/k10011803361000.html"
+}
