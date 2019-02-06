@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われているけもの。ずんぐり<ruby><rb>太</rb><rt>ふと</rt></ruby>っている。<ruby><rb>肉</rb><rt>にく</rt></ruby>は<ruby><rb>食</rb><rt>た</rt></ruby>べられ、<ruby><rb>皮</rb><rt>かわ</rt></ruby>も<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "豚"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>・<ruby><rb>林業</rb><rt>りんぎょう</rt></ruby>・<ruby><rb>水産業</rb><rt>すいさんぎょう</rt></ruby>・<ruby><rb>畜産業</rb><rt>ちくさんぎょう</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>農水省</rb><rt>のうすいしょう</rt></ruby>。",
+          "hyouki": [
+            "農林水産省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "農家"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ]
+    }
+  }
+}

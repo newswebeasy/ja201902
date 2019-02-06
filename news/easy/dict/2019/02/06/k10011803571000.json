@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>や<ruby><rb>海</rb><rt>うみ</rt></ruby>があふれないように、<ruby><rb>川岸</rb><rt>かわぎし</rt></ruby>や<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>に、<ruby><rb>石</rb><rt>いし</rt></ruby>やコンクリートなどで<ruby><rb>築</rb><rt>きず</rt></ruby>いたもの。つつみ。<ruby><rb>土手</rb><rt>どて</rt></ruby>。",
+          "hyouki": [
+            "堤防"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。",
+          "hyouki": [
+            "国土交通省"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>をおしつける<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>、<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>水圧</rb><rt>すいあつ</rt></ruby>という。",
+          "hyouki": [
+            "圧力"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>くはたらきかけること。",
+          "hyouki": [
+            "圧力"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。",
+          "hyouki": [
+            "金属"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "板"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ]
+    }
+  }
+}

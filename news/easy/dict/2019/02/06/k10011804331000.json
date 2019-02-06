@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "コンピューターを<ruby><rb>使</rb><rt>つか</rt></ruby>うときなどに、その<ruby><rb>人</rb><rt>ひと</rt></ruby>であることを<ruby><rb>確認</rb><rt>かくにん</rt></ruby>する、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なことばや<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。",
+          "hyouki": [
+            "パスワード"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>から<ruby><rb>下</rb><rt>した</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>切</rb><rt>き</rt></ruby>ったりして<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>を<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>分</rb><rt>わ</rt></ruby>ける。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "おろし<ruby><rb>金</rb><rt>がね</rt></ruby>ですりくずす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>下</rb><rt>した</rt></ruby>のほうへのばす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>から<ruby><rb>下</rb><rt>した</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>切</rb><rt>き</rt></ruby>ったりして<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>を<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>分</rb><rt>わ</rt></ruby>ける。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "おろし<ruby><rb>金</rb><rt>がね</rt></ruby>ですりくずす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>下</rb><rt>した</rt></ruby>のほうへのばす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>外</rb><rt>そと</rt></ruby>から<ruby><rb>見</rb><rt>み</rt></ruby>た）<ruby><rb>人</rb><rt>ひと</rt></ruby>やものごとのようす。",
+          "hyouki": [
+            "状態"
+          ]
+        }
+      ]
+    }
+  }
+}

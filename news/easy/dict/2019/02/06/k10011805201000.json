@@ -1,0 +1,196 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>のうち、１９４１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>太平洋地域</rb><rt>たいへいようちいき</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われた<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>と、アメリカ・イギリスなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>との<ruby><rb>戦</rb><rt>たたか</rt></ruby>いで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>敗</rb><rt>やぶ</rt></ruby>れて<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "太平洋戦争"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>がない。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が<ruby><rb>地平線</rb><rt>ちへいせん</rt></ruby>にかくれる。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "よくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "沈む"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>がない。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が<ruby><rb>地平線</rb><rt>ちへいせん</rt></ruby>にかくれる。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "よくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "沈む"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。",
+          "hyouki": [
+            "底"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。",
+          "hyouki": [
+            "IT"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>き。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>四角</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "やりかた。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。",
+          "hyouki": [
+            "方"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。",
+          "hyouki": [
+            "爆発"
+          ]
+        },
+        {
+          "def": "おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。",
+          "hyouki": [
+            "爆発"
+          ]
+        }
+      ]
+    }
+  }
+}
