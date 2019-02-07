@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>森林</rb><rt>しんりん</rt></ruby>や<ruby><rb>山野</rb><rt>さんや</rt></ruby>にすむ、<ruby><rb>草食</rb><rt>そうしょく</rt></ruby>のおとなしいけもの。<ruby><rb>足</rb><rt>あし</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く、<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>角</rb><rt>つの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>世界各地</rb><rt>せかいかくち</rt></ruby>にいる。",
+          "hyouki": [
+            "鹿"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>動植物</rb><rt>どうしょくぶつ</rt></ruby>が、<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>野原</rb><rt>のはら</rt></ruby>でしぜんに<ruby><rb>育</rb><rt>そだ</rt></ruby>ち、<ruby><rb>生</rb><rt>い</rt></ruby>きていること。",
+          "hyouki": [
+            "野生"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てたり、とらえたりするための<ruby><rb>食物</rb><rt>しょくもつ</rt></ruby>。え。",
+          "hyouki": [
+            "餌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をさそいこむためにあたえるもの。",
+          "hyouki": [
+            "餌"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "たおれる。ひっくり<ruby><rb>返</rb><rt>かえ</rt></ruby>る。",
+          "hyouki": [
+            "転ぶ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。",
+          "hyouki": [
+            "骨"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "職員"
+          ]
+        }
+      ]
+    }
+  }
+}

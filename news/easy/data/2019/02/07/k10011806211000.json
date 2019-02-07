@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011806211000",
+  "news_prearranged_time": "2019-02-07 16:30:00",
+  "title": "牛乳やヨーグルトの値段が４月から上がる",
+  "title_with_ruby": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>やヨーグルトの<ruby>値段<rt>ねだん</rt></ruby>が４<ruby>月<rt>がつ</rt></ruby>から<ruby>上<rt>あ</rt></ruby>がる",
+  "outline_with_ruby": "<p><ruby>雪印<rt>ゆきじるし</rt></ruby>メグミルクは、４<ruby>月<rt>がつ</rt></ruby>から<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0000'>ヨーグルト</a>などの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げると<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190206/../20190206/K10011806211_1902061856_1902061901_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011806211000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011806211000/k10011806211000.html"
+}

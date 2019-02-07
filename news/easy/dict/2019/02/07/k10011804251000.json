@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>などで、<ruby><rb>児童</rb><rt>じどう</rt></ruby>や<ruby><rb>生徒</rb><rt>せいと</rt></ruby>に<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。また、その<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>。",
+          "hyouki": [
+            "給食"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>立春</rb><rt>りっしゅん</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>日</rb><rt>ひ</rt></ruby>、<ruby><rb>二月三日</rb><rt>にがつみっか</rt></ruby>ごろ。<ruby><rb>豆</rb><rt>まめ</rt></ruby>まきをする<ruby><rb>習</rb><rt>なら</rt></ruby>わしがある。",
+          "hyouki": [
+            "節分"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ダイズ・アズキ・ソラマメなど、さやの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>種</rb><rt>たね</rt></ruby>ができる<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。また、その<ruby><rb>種</rb><rt>たね</rt></ruby>。",
+          "hyouki": [
+            "豆"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>小</rb><rt>ちい</rt></ruby>さい」や「<ruby><rb>子</rb><rt>こ</rt></ruby>ども」という<ruby><rb>意味</rb><rt>いみ</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "豆"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ]
+    }
+  }
+}
