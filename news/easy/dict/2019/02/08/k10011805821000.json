@@ -1,0 +1,264 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仏教</rb><rt>ぶっきょう</rt></ruby>で、さとりを<ruby><rb>開</rb><rt>ひら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>仏陀</rb><rt>ぶっだ</rt></ruby>。",
+          "hyouki": [
+            "仏"
+          ]
+        },
+        {
+          "def": "<ruby><rb>釈迦</rb><rt>しゃか</rt></ruby>のこと。",
+          "hyouki": [
+            "仏"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仏像</rb><rt>ぶつぞう</rt></ruby>。",
+          "hyouki": [
+            "仏"
+          ]
+        },
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "仏"
+          ]
+        },
+        {
+          "def": "<ruby><rb>情</rb><rt>なさ</rt></ruby>け<ruby><rb>深</rb><rt>ぶか</rt></ruby>い<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "仏"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>や、<ruby><rb>姿</rb><rt>すがた</rt></ruby>を<ruby><rb>美</rb><rt>うつく</rt></ruby>しくすること。",
+          "hyouki": [
+            "美容"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>むこと。<ruby><rb>包</rb><rt>つつ</rt></ruby>んだもの。また、<ruby><rb>容器</rb><rt>ようき</rt></ruby>などにつめること。<ruby><rb>容器</rb><rt>ようき</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>をあたえるものをぬって、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>をきれいにする<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>で、<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>・ホテル・<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>先</rb><rt>さき</rt></ruby>などをひとまとめにしたもの。パッケージ<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>にかいたりして<ruby><rb>表</rb><rt>あらわ</rt></ruby>した<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "仏像"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        },
+        {
+          "def": "<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "品"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>。",
+          "hyouki": [
+            "品"
+          ]
+        },
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。",
+          "hyouki": [
+            "品"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>銅</rb><rt>どう</rt></ruby>とすずを<ruby><rb>混</rb><rt>ま</rt></ruby>ぜ<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>合金</rb><rt>ごうきん</rt></ruby>。<ruby><rb>銅像</rb><rt>どうぞう</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。ブロンズ。",
+          "hyouki": [
+            "青銅"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ひたい。",
+          "hyouki": [
+            "額"
+          ]
+        },
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>書</rb><rt>しょ</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れて、かべにかけるもの。",
+          "hyouki": [
+            "額"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。",
+          "hyouki": [
+            "額"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "かざりにする<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "模様"
+          ]
+        },
+        {
+          "def": "ようす。ありさま。",
+          "hyouki": [
+            "模様"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>米</rb><rt>こめ</rt></ruby>から<ruby><rb>造</rb><rt>つく</rt></ruby>る、<ruby><rb>日本特有</rb><rt>にっぽんとくゆう</rt></ruby>の<ruby><rb>酒</rb><rt>さけ</rt></ruby>。<ruby><rb>清酒</rb><rt>せいしゅ</rt></ruby>。",
+          "hyouki": [
+            "日本酒"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>熟</rb><rt>じゅく</rt></ruby>してあまい<ruby><rb>実</rb><rt>み</rt></ruby>のなる<ruby><rb>木</rb><rt>き</rt></ruby>。また、その<ruby><rb>実</rb><rt>み</rt></ruby>。あまがきと、しぶがきとがある。",
+          "hyouki": [
+            "柿"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げている<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つのもとになる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "成分"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>がある<ruby><rb>特定</rb><rt>とくてい</rt></ruby>の<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>して<ruby><rb>示</rb><rt>しめ</rt></ruby>す<ruby><rb>異常</rb><rt>いじょう</rt></ruby>な<ruby><rb>反応</rb><rt>はんのう</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>によって、<ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>、<ruby><rb>花粉</rb><rt>かふん</rt></ruby>などに<ruby><rb>対</rb><rt>たい</rt></ruby>して、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がかゆくなったり、ぶつぶつができたりすること。",
+          "hyouki": [
+            "アレルギー"
+          ]
+        }
+      ]
+    }
+  }
+}
