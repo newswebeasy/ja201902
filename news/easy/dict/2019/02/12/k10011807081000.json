@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "温泉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby>の<ruby><rb>聖人</rb><rt>せいじん</rt></ruby>バレンタインを<ruby><rb>記念</rb><rt>きねん</rt></ruby>する<ruby><rb>日</rb><rt>ひ</rt></ruby>。<ruby><rb>二月</rb><rt>にがつ</rt></ruby><ruby><rb>十四日</rb><rt>じゅうよっか</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では<ruby><rb>女性</rb><rt>じょせい</rt></ruby>から<ruby><rb>男性</rb><rt>だんせい</rt></ruby>へ、チョコレートなどのプレゼントをおくる<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>がある。",
+          "hyouki": [
+            "バレンタインデー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るための、もとになる<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "原料"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>熱帯</rb><rt>ねったい</rt></ruby><ruby><rb>地方</rb><rt>ちほう</rt></ruby>で<ruby><rb>栽培</rb><rt>さいばい</rt></ruby>する<ruby><rb>高木</rb><rt>こうぼく</rt></ruby>。<ruby><rb>枝</rb><rt>えだ</rt></ruby>や<ruby><rb>幹</rb><rt>みき</rt></ruby>にできる<ruby><rb>実</rb><rt>み</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>種</rb><rt>たね</rt></ruby>を、ココアやチョコレートの<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にする。",
+          "hyouki": [
+            "カカオ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ふろに<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "入浴"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>薬</rb><rt>くすり</rt></ruby>などを<ruby><rb>混</rb><rt>ま</rt></ruby>ぜ<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。また、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜ<ruby><rb>合</rb><rt>あ</rt></ruby>わせた<ruby><rb>薬</rb><rt>くすり</rt></ruby>。",
+          "hyouki": [
+            "剤"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>基本</rb><rt>きほん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１リットルは、１０００<ruby><rb>立方</rb><rt>りっぽう</rt></ruby>センチメートル。一<ruby><rb>辺</rb><rt>ぺん</rt></ruby>が１０センチメートルの<ruby><rb>立方体</rb><rt>りっぽうたい</rt></ruby>の<ruby><rb>体積</rb><rt>たいせき</rt></ruby>を１リットルとする。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「L」。",
+          "hyouki": [
+            "リットル"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>西洋料理</rb><rt>せいようりょうり</rt></ruby>の<ruby><rb>味</rb><rt>あじ</rt></ruby>つけに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>液体</rb><rt>えきたい</rt></ruby>の<ruby><rb>調味料</rb><rt>ちょうみりょう</rt></ruby>。<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ソース"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "いいにおい。",
+          "hyouki": [
+            "香り"
+          ]
+        },
+        {
+          "def": "そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。",
+          "hyouki": [
+            "香り"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。",
+          "hyouki": [
+            "リラックス"
+          ]
+        }
+      ]
+    }
+  }
+}

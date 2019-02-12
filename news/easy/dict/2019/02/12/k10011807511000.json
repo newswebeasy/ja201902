@@ -1,0 +1,306 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>起</rb><rt>お</rt></ruby>こり。<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>原因</rb><rt>げんいん</rt></ruby>。",
+          "hyouki": [
+            "元"
+          ]
+        },
+        {
+          "def": "<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>。",
+          "hyouki": [
+            "元"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元手</rb><rt>もとで</rt></ruby>。<ruby><rb>資本</rb><rt>しほん</rt></ruby>。",
+          "hyouki": [
+            "元"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>。<ruby><rb>以前</rb><rt>いぜん</rt></ruby>。",
+          "hyouki": [
+            "元"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>熱帯地方</rb><rt>ねったいちほう</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>える、ゴムの<ruby><rb>木</rb><rt>き</rt></ruby>のしるで<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。のび<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>みする。タイヤ、ボール、くつの<ruby><rb>底</rb><rt>そこ</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "ゴム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>して<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。いっしょにする。",
+          "hyouki": [
+            "合わせる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じにする。そろえる。",
+          "hyouki": [
+            "合わせる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じかどうか<ruby><rb>比</rb><rt>くら</rt></ruby>べる。",
+          "hyouki": [
+            "合わせる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。",
+          "hyouki": [
+            "つながる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。",
+          "hyouki": [
+            "つながる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。",
+          "hyouki": [
+            "傷"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>口</rb><rt>くち</rt></ruby>をしめるようにした<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "袋"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "袋"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>閉</rb><rt>し</rt></ruby>める。ふさぐ。<ruby><rb>閉</rb><rt>し</rt></ruby>まる。",
+          "hyouki": [
+            "閉じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わりにする。",
+          "hyouki": [
+            "閉じる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>をなくさないで<ruby><rb>分</rb><rt>わ</rt></ruby>けられる、いちばん<ruby><rb>小</rb><rt>ちい</rt></ruby>さなつぶ。",
+          "hyouki": [
+            "分子"
+          ]
+        },
+        {
+          "def": "グループの<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>一人</rb><rt>ひとり</rt></ruby><ruby><rb>一人</rb><rt>ひとり</rt></ruby>。",
+          "hyouki": [
+            "分子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>分数</rb><rt>ぶんすう</rt></ruby>で、<ruby><rb>横線</rb><rt>よこせん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。<ruby><rb>割</rb><rt>わ</rt></ruby>られるほうの<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "分子"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>っ<ruby><rb>張</rb><rt>ぱ</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "引き合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦労</rb><rt>くろう</rt></ruby>しただけの<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがある。<ruby><rb>割</rb><rt>わり</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "引き合う"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>電気</rb><rt>でんき</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>のはたらきなどについて<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。",
+          "hyouki": [
+            "物理学"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "あるはたらきをすることができる<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "エネルギー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>活動</rb><rt>かつどう</rt></ruby>するもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>元気</rb><rt>げんき</rt></ruby>。",
+          "hyouki": [
+            "エネルギー"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。",
+          "hyouki": [
+            "宇宙"
+          ]
+        }
+      ],
+      "0016": [
+        {
+          "def": "セメント・<ruby><rb>砂</rb><rt>すな</rt></ruby>・じゃりを<ruby><rb>水</rb><rt>みず</rt></ruby>で<ruby><rb>混</rb><rt>ま</rt></ruby>ぜて、<ruby><rb>石</rb><rt>いし</rt></ruby>のように<ruby><rb>固</rb><rt>かた</rt></ruby>まらせたもの。コンクリ。",
+          "hyouki": [
+            "コンクリート"
+          ]
+        }
+      ],
+      "0017": [
+        {
+          "def": "ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。",
+          "hyouki": [
+            "金属"
+          ]
+        }
+      ]
+    }
+  }
+}

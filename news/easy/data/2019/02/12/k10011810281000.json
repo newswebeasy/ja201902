@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011810281000",
+  "news_prearranged_time": "2019-02-12 16:00:00",
+  "title": "秋田市の老人ホームで３２人がインフルエンザになる",
+  "title_with_ruby": "<ruby>秋田市<rt>あきたし</rt></ruby>の<ruby>老人<rt>ろうじん</rt></ruby>ホームで３２<ruby>人<rt>にん</rt></ruby>がインフルエンザになる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'>インフルエンザ</a>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>流行<rt>りゅうこう</rt></ruby></a>しています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190210/../20190210/K10011810281_1902101309_1902101310_01_03.jpg",
+  "news_web_movie_uri": "k10011810281_201902101309_201902101310.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011810281000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011810281000/k10011810281000.html"
+}
