@@ -1,0 +1,180 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>にすむ<ruby><rb>白</rb><rt>しろ</rt></ruby>いクマ。クマの<ruby><rb>中</rb><rt>なか</rt></ruby>でいちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きい。シロクマ。",
+          "hyouki": [
+            "北極熊"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにある<ruby><rb>海</rb><rt>うみ</rt></ruby>。アジア・ヨーロッパ・<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカに<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれ、<ruby><rb>大部分</rb><rt>だいぶぶん</rt></ruby>は<ruby><rb>氷</rb><rt>こおり</rt></ruby>におおわれている。<ruby><rb>北氷洋</rb><rt>ほっぴょうよう</rt></ruby>。",
+          "hyouki": [
+            "北極海"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ふいにせめる。",
+          "hyouki": [
+            "襲う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>来</rb><rt>き</rt></ruby>て<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "襲う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>にそのような<ruby><rb>気持</rb><rt>きも</rt></ruby>ちになる。",
+          "hyouki": [
+            "襲う"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "あたま。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "はじめ。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "頭"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>警官</rb><rt>けいかん</rt></ruby>などが<ruby><rb>見回</rb><rt>みまわ</rt></ruby>ること。",
+          "hyouki": [
+            "パトロール"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>垣根</rb><rt>かきね</rt></ruby>。さく。",
+          "hyouki": [
+            "フェンス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球場</rb><rt>やきゅうじょう</rt></ruby>のグラウンドを<ruby><rb>囲</rb><rt>かこ</rt></ruby>む、へい。",
+          "hyouki": [
+            "フェンス"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>結</rb><rt>むす</rt></ruby>んであるものが、はなれる。",
+          "hyouki": [
+            "解ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>消</rb><rt>き</rt></ruby>える。",
+          "hyouki": [
+            "解ける"
+          ]
+        },
+        {
+          "def": "わからなかったことが、わかる。",
+          "hyouki": [
+            "解ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>雪</rb><rt>ゆき</rt></ruby>や<ruby><rb>氷</rb><rt>こおり</rt></ruby>などが、<ruby><rb>水</rb><rt>みず</rt></ruby>になる。",
+          "hyouki": [
+            "解ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちがゆるむ。",
+          "hyouki": [
+            "解ける"
+          ]
+        }
+      ]
+    }
+  }
+}

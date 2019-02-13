@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>春</rb><rt>はる</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、<ruby><rb>葉</rb><rt>は</rt></ruby>よりも<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>や<ruby><rb>紅</rb><rt>くれない</rt></ruby>のかおりのよい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>実</rb><rt>み</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きくなり、<ruby><rb>梅</rb><rt>うめ</rt></ruby>ぼしや<ruby><rb>梅酒</rb><rt>うめしゅ</rt></ruby>などにする。",
+          "hyouki": [
+            "梅"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わったあとにできるもの。<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>種</rb><rt>たね</rt></ruby>がある。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>種</rb><rt>たね</rt></ruby>。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "みそしるなどの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる、<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>肉</rb><rt>にく</rt></ruby>など。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中身</rb><rt>なかみ</rt></ruby>。",
+          "hyouki": [
+            "実"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いいにおい。",
+          "hyouki": [
+            "香り"
+          ]
+        },
+        {
+          "def": "そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。",
+          "hyouki": [
+            "香り"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ]
+    }
+  }
+}
