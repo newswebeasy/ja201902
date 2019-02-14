@@ -1,0 +1,150 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。",
+          "hyouki": [
+            "賛成"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "投票"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "移す"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。",
+          "hyouki": [
+            "移す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。",
+          "hyouki": [
+            "移す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>穴</rb><rt>あな</rt></ruby>をほって<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>をかぶせる。",
+          "hyouki": [
+            "埋める"
+          ]
+        },
+        {
+          "def": "ふさいで<ruby><rb>平</rb><rt>たい</rt></ruby>らにする。",
+          "hyouki": [
+            "埋める"
+          ]
+        },
+        {
+          "def": "すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいにする。",
+          "hyouki": [
+            "埋める"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>湯</rb><rt>ゆ</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、ぬるくする。",
+          "hyouki": [
+            "埋める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>りない<ruby><rb>分</rb><rt>ぶん</rt></ruby>を<ruby><rb>補</rb><rt>おぎな</rt></ruby>う。",
+          "hyouki": [
+            "埋める"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>権利</rb><rt>けんり</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>選挙権</rb><rt>せんきょけん</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "有権者"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。",
+          "hyouki": [
+            "総理大臣"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ]
+    }
+  }
+}

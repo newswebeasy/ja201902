@@ -1,0 +1,56 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby>の<ruby><rb>聖人</rb><rt>せいじん</rt></ruby>バレンタインを<ruby><rb>記念</rb><rt>きねん</rt></ruby>する<ruby><rb>日</rb><rt>ひ</rt></ruby>。<ruby><rb>２月</rb><rt>にがつ</rt></ruby><ruby><rb>１４日</rb><rt>じゅうよっか</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では<ruby><rb>女性</rb><rt>じょせい</rt></ruby>から<ruby><rb>男性</rb><rt>だんせい</rt></ruby>へ、チョコレートなどのプレゼントをおくる<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>がある。",
+          "hyouki": [
+            "バレンタインデー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>営利</rb><rt>えいり</rt></ruby>を<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とせずに<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>な<ruby><rb>活動</rb><rt>かつどう</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "NPO"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "よぶんにある。<ruby><rb>残</rb><rt>のこ</rt></ruby>る。",
+          "hyouki": [
+            "余る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>算</rb><rt>ざん</rt></ruby>で、<ruby><rb>割</rb><rt>わ</rt></ruby>りきれないで<ruby><rb>残</rb><rt>のこ</rt></ruby>る。",
+          "hyouki": [
+            "余る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>ではできない。",
+          "hyouki": [
+            "余る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>をこえている。",
+          "hyouki": [
+            "余る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ]
+    }
+  }
+}

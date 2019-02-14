@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。",
+          "hyouki": [
+            "ワクチン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>などにできる、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなふきでもの。ほっしん。",
+          "hyouki": [
+            "発疹"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "研究所"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。",
+          "hyouki": [
+            "年齢"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "おなかの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>宿</rb><rt>やど</rt></ruby>すこと。みごもること。",
+          "hyouki": [
+            "妊娠"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ]
+    }
+  }
+}
