@@ -1,0 +1,146 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>県</rb><rt>けん</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "県庁"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "のばしたものが、つく。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。",
+          "hyouki": [
+            "届く"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "のばしたものが、つく。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。",
+          "hyouki": [
+            "届く"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ふだ。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>金融</rb><rt>きんゆう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>。<ruby><rb>紙幣</rb><rt>しへい</rt></ruby>を<ruby><rb>発行</rb><rt>はっこう</rt></ruby>し、ふつうの<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>にお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>す。<ruby><rb>日銀</rb><rt>にちぎん</rt></ruby>。",
+          "hyouki": [
+            "日本銀行"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>別</rb><rt>べつ</rt></ruby>のものと<ruby><rb>取</rb><rt>と</rt></ruby>りかえる。<ruby><rb>交換</rb><rt>こうかん</rt></ruby>する。",
+          "hyouki": [
+            "換える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新</rb><rt>あたら</rt></ruby>しく<ruby><rb>別</rb><rt>べつ</rt></ruby>のものにする。",
+          "hyouki": [
+            "換える"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>めておく。",
+          "hyouki": [
+            "ためる"
+          ]
+        },
+        {
+          "def": "たくわえる。",
+          "hyouki": [
+            "ためる"
+          ]
+        },
+        {
+          "def": "し<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "ためる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しくたくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雨</rb><rt>あめ</rt></ruby>。<ruby><rb>豪雨</rb><rt>ごうう</rt></ruby>。",
+          "hyouki": [
+            "大雨"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ]
+    }
+  }
+}
