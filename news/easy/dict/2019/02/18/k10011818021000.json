@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、<ruby><rb>備</rb><rt>そな</rt></ruby>えつけて<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。たんす・テーブル・<ruby><rb>本箱</rb><rt>ほんばこ</rt></ruby>など。",
+          "hyouki": [
+            "家具"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>を<ruby><rb>建</rb><rt>た</rt></ruby>てたり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりするのを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "大工"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>や<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>模様</rb><rt>もよう</rt></ruby>などを<ruby><rb>考</rb><rt>かんが</rt></ruby>えることを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "デザイナー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ]
+    }
+  }
+}

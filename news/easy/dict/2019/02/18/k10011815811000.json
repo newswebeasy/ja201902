@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>予定</rb><rt>よてい</rt></ruby>やものごとを<ruby><rb>書</rb><rt>か</rt></ruby>きとめておく、<ruby><rb>小</rb><rt>ちい</rt></ruby>さいノート。",
+          "hyouki": [
+            "手帳"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちがうことばを<ruby><rb>話</rb><rt>はな</rt></ruby>す<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>のことばを<ruby><rb>翻訳</rb><rt>ほんやく</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "通訳"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>消防</rb><rt>しょうぼう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしたり、<ruby><rb>急病</rb><rt>きゅうびょう</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたりする<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "消防署"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。",
+          "hyouki": [
+            "インフルエンザ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。",
+          "hyouki": [
+            "ワクチン"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けて、わたす。",
+          "hyouki": [
+            "配る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。",
+          "hyouki": [
+            "配る"
+          ]
+        }
+      ]
+    }
+  }
+}

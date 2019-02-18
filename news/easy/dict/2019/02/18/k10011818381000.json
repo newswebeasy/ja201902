@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。",
+          "hyouki": [
+            "WHO"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>耳</rb><rt>みみ</rt></ruby>にさしこんで、テレビやラジオなどの<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>聞</rb><rt>き</rt></ruby>く<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。イヤホン。",
+          "hyouki": [
+            "イヤホーン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "プレーヤー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>を、<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "プレーヤー"
+          ]
+        },
+        {
+          "def": "レコードプレーヤーなどのこと。",
+          "hyouki": [
+            "プレーヤー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>音</rb><rt>おと</rt></ruby>の<ruby><rb>強</rb><rt>つよ</rt></ruby>さを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「dB」。",
+          "hyouki": [
+            "デシベル"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>目的</rb><rt>もくてき</rt></ruby>どおりにはたらくこと。また、そのはたらき。<ruby><rb>作用</rb><rt>さよう</rt></ruby>。",
+          "hyouki": [
+            "機能"
+          ]
+        }
+      ]
+    }
+  }
+}

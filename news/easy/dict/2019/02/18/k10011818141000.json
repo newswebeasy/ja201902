@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>身分</rb><rt>みぶん</rt></ruby>を<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>すること。",
+          "hyouki": [
+            "ID"
+          ]
+        },
+        {
+          "def": "<ruby><rb>個人</rb><rt>こじん</rt></ruby>を<ruby><rb>見分</rb><rt>みわ</rt></ruby>ける<ruby><rb>番号</rb><rt>ばんごう</rt></ruby>。<ruby><rb>暗証番号</rb><rt>あんしょうばんごう</rt></ruby>。",
+          "hyouki": [
+            "ID"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "カード"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>重</rb><rt>おも</rt></ruby>さ。",
+          "hyouki": [
+            "体重"
+          ]
+        }
+      ]
+    }
+  }
+}
