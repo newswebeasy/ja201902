@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>市庁</rb><rt>しちょう</rt></ruby>。",
+          "hyouki": [
+            "市役所"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "職員"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>忍術</rb><rt>にんじゅつ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。しのびの<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "忍者"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ]
+    }
+  }
+}

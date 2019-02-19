@@ -1,0 +1,132 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。",
+          "hyouki": [
+            "治療"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>がっている<ruby><rb>糸</rb><rt>いと</rt></ruby>のような<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。しげきを<ruby><rb>脳</rb><rt>のう</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせたり、<ruby><rb>脳</rb><rt>のう</rt></ruby>の<ruby><rb>命令</rb><rt>めいれい</rt></ruby>を<ruby><rb>手足</rb><rt>てあし</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>えたりする。",
+          "hyouki": [
+            "神経"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>のはたらき。",
+          "hyouki": [
+            "神経"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、いちばん<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "細胞"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。",
+          "hyouki": [
+            "骨"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "けがをする。",
+          "hyouki": [
+            "傷つく"
+          ]
+        },
+        {
+          "def": "こわれる。いたむ。",
+          "hyouki": [
+            "傷つく"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のめいよや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちがそこなわれる。",
+          "hyouki": [
+            "傷つく"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。",
+          "hyouki": [
+            "治す"
+          ]
+        }
+      ]
+    }
+  }
+}
