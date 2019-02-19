@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011817451000",
+  "news_prearranged_time": "2019-02-19 11:30:00",
+  "title": "「４月から５月の長い休みの前に銀行の用事はしておいて」",
+  "title_with_ruby": "「４<ruby>月<rt>がつ</rt></ruby>から５<ruby>月<rt>がつ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>い<ruby>休<rt>やす</rt></ruby>みの<ruby>前<rt>まえ</rt></ruby>に<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>用事<rt>ようじ</rt></ruby>はしておいて」",
+  "outline_with_ruby": "<p><ruby>今年<rt>ことし</rt></ruby>は、４<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>から５<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>まで、<ruby>休<rt>やす</rt></ruby>みが<ruby>１０日<rt>とおか</rt></ruby><ruby>続<rt>つづ</rt></ruby>きます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190216/../20190216/K10011817451_1902161458_1902161500_01_02.jpg",
+  "news_web_movie_uri": "k10011817451_201902161814_201902161815.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011817451000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011817451000/k10011817451000.html"
+}

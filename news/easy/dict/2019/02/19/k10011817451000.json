@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などにある、<ruby><rb>現金自動預</rb><rt>げんきんじどうあず</rt></ruby>け<ruby><rb>払</rb><rt>ばら</rt></ruby>い<ruby><rb>機</rb><rt>き</rt></ruby>。",
+          "hyouki": [
+            "ATM"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>から<ruby><rb>下</rb><rt>した</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>切</rb><rt>き</rt></ruby>ったりして<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>を<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>分</rb><rt>わ</rt></ruby>ける。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "おろし<ruby><rb>金</rb><rt>がね</rt></ruby>ですりくずす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>下</rb><rt>した</rt></ruby>のほうへのばす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ]
+    }
+  }
+}

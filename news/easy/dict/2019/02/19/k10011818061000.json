@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>春</rb><rt>はる</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、<ruby><rb>葉</rb><rt>は</rt></ruby>よりも<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>や<ruby><rb>紅</rb><rt>くれない</rt></ruby>のかおりのよい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>実</rb><rt>み</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きくなり、<ruby><rb>梅</rb><rt>うめ</rt></ruby>ぼしや<ruby><rb>梅酒</rb><rt>うめしゅ</rt></ruby>などにする。",
+          "hyouki": [
+            "梅"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。",
+          "hyouki": [
+            "ピンク"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わったあとにできるもの。<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>種</rb><rt>たね</rt></ruby>がある。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>種</rb><rt>たね</rt></ruby>。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "みそしるなどの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる、<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>肉</rb><rt>にく</rt></ruby>など。",
+          "hyouki": [
+            "実"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中身</rb><rt>なかみ</rt></ruby>。",
+          "hyouki": [
+            "実"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ]
+    }
+  }
+}
