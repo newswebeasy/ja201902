@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "アンケート"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>苦</rb><rt>くる</rt></ruby>しみ。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>ごと。",
+          "hyouki": [
+            "悩み"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。",
+          "hyouki": [
+            "差別"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものごとの<ruby><rb>正</rb><rt>ただ</rt></ruby>しさや、<ruby><rb>真実</rb><rt>しんじつ</rt></ruby>などをはっきり<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。",
+          "hyouki": [
+            "証明"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。",
+          "hyouki": [
+            "都道府県"
+          ]
+        }
+      ]
+    }
+  }
+}
