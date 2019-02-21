@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011820741000",
+  "news_prearranged_time": "2019-02-21 11:30:00",
+  "title": "徳島県で８５年前の「阿波おどり」のビデオが見つかる",
+  "title_with_ruby": "<ruby>徳島県<rt>とくしまけん</rt></ruby>で８５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の「<ruby>阿波<rt>あわ</rt></ruby>おどり」のビデオが<ruby>見<rt>み</rt></ruby>つかる",
+  "outline_with_ruby": "<p>「<ruby>阿波<rt>あわ</rt></ruby>おどり」は<ruby>徳島<rt>とくしま</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>夏<rt>なつ</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りです。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190220/../20190220/K10011820741_1902192240_1902200414_01_02.jpg",
+  "news_web_movie_uri": "k10011820741_201902200724_201902200729.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011820741000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011820741000/k10011820741000.html"
+}

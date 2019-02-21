@@ -1,0 +1,120 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。",
+          "hyouki": [
+            "江戸時代"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ひな<ruby><rb>祭</rb><rt>まつ</rt></ruby>りにかざる<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。",
+          "hyouki": [
+            "雛人形"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>一万石</rb><rt>いちまんごく</rt></ruby><ruby><rb>以上</rb><rt>いじょう</rt></ruby>の<ruby><rb>領地</rb><rt>りょうち</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>っていた<ruby><rb>武士</rb><rt>ぶし</rt></ruby>。",
+          "hyouki": [
+            "大名"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で<ruby><rb>昔</rb><rt>むかし</rt></ruby>から<ruby><rb>作</rb><rt>つく</rt></ruby>られてきた<ruby><rb>紙</rb><rt>かみ</rt></ruby>。コウゾ・ミツマタなどの<ruby><rb>木</rb><rt>き</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にして、<ruby><rb>手</rb><rt>て</rt></ruby>すきで<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>日本紙</rb><rt>にほんし</rt></ruby>。",
+          "hyouki": [
+            "和紙"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ご<ruby><rb>飯</rb><rt>はん</rt></ruby>やしるを<ruby><rb>盛</rb><rt>も</rt></ruby>る<ruby><rb>器</rb><rt>うつわ</rt></ruby>。",
+          "hyouki": [
+            "わん"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れる<ruby><rb>箱</rb><rt>はこ</rt></ruby>で、いくつも<ruby><rb>重</rb><rt>かさ</rt></ruby>ねることができるもの。",
+          "hyouki": [
+            "重箱"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "おかね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」のように、だいじな。りっぱな。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "かなもの。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "かざりにする<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "模様"
+          ]
+        },
+        {
+          "def": "ようす。ありさま。",
+          "hyouki": [
+            "模様"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "博物館"
+          ]
+        }
+      ]
+    }
+  }
+}
