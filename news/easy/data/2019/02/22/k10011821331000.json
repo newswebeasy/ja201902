@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011821331000",
+  "news_prearranged_time": "2019-02-22 11:30:00",
+  "title": "アカデミー賞のパーティー　２年続けて宮崎県の牛肉を使う",
+  "title_with_ruby": "アカデミー<ruby>賞<rt>しょう</rt></ruby>のパーティー　２<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>宮崎県<rt>みやざきけん</rt></ruby>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う",
+  "outline_with_ruby": "<p>アカデミー<ruby>賞<rt>しょう</rt></ruby>は、アメリカでいちばん<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>賞<rt>しょう</rt></ruby></a>だと<ruby>言<rt>い</rt></ruby>われています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190220/../20190220/K10011821331_1902201456_1902201456_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011821331000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011821331000/k10011821331000.html"
+}

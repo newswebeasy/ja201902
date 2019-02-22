@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>のときに<ruby><rb>感</rb><rt>かん</rt></ruby>じるゆれの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。<ruby><rb>計測地震計</rb><rt>けいそくじしんけい</rt></ruby>によって<ruby><rb>測</rb><rt>はか</rt></ruby>られ、<ruby><rb>次</rb><rt>つぎ</rt></ruby>の１０<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けられている。",
+          "hyouki": [
+            "震度"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "よわい。",
+          "hyouki": [
+            "弱"
+          ]
+        },
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>が<ruby><rb>若</rb><rt>わか</rt></ruby>い。",
+          "hyouki": [
+            "弱"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>数</rb><rt>かず</rt></ruby>より<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>足</rb><rt>た</rt></ruby>りないことを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "弱"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "マグニチュード"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "つよい。<ruby><rb>力</rb><rt>ちから</rt></ruby>がある。<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>。",
+          "hyouki": [
+            "強"
+          ]
+        },
+        {
+          "def": "はげむ。<ruby><rb>無理</rb><rt>むり</rt></ruby>にする。しいる。",
+          "hyouki": [
+            "強"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>数</rb><rt>かず</rt></ruby>よりも、<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>多</rb><rt>おお</rt></ruby>いことを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "強"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。",
+          "hyouki": [
+            "津波"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ]
+    }
+  }
+}
