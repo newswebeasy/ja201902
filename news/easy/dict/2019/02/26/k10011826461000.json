@@ -1,0 +1,178 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>をはらって<ruby><rb>入</rb><rt>はい</rt></ruby>るふろ。ふろ<ruby><rb>屋</rb><rt>や</rt></ruby>。<ruby><rb>公衆浴場</rb><rt>こうしゅうよくじょう</rt></ruby>。",
+          "hyouki": [
+            "銭湯"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>車</rb><rt>くるま</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。",
+          "hyouki": [
+            "車輪"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れる、<ruby><rb>木</rb><rt>き</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "桶"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>でするスポーツの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>四人</rb><rt>よにん</rt></ruby>ひと<ruby><rb>組</rb><rt>くみ</rt></ruby>になって、<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>をした<ruby><rb>重</rb><rt>おも</rt></ruby>い<ruby><rb>石</rb><rt>いし</rt></ruby>をすべらせ、<ruby><rb>円</rb><rt>えん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れることをきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "カーリング"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>を、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "点数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "点数"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名</rb><rt>な</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>名</rb><rt>な</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>店先</rb><rt>みせさき</rt></ruby>にかけておく<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "のれん"
+          ]
+        },
+        {
+          "def": "<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>などに<ruby><rb>垂</rb><rt>た</rt></ruby>らす「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "のれん"
+          ]
+        },
+        {
+          "def": "<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>信用</rb><rt>しんよう</rt></ruby>。",
+          "hyouki": [
+            "のれん"
+          ]
+        },
+        {
+          "def": "<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名</rb><rt>な</rt></ruby>。",
+          "hyouki": [
+            "のれん"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>入</rb><rt>はい</rt></ruby>ると、<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>も<ruby><rb>出口</rb><rt>でぐち</rt></ruby>も、<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>さえもわからなくなるような<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>迷</rb><rt>まよ</rt></ruby>いやすい<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "迷路"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ]
+    }
+  }
+}

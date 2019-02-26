@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。",
+          "hyouki": [
+            "国際線"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国内</rb><rt>こくない</rt></ruby>の<ruby><rb>空港</rb><rt>くうこう</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。",
+          "hyouki": [
+            "国内線"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ]
+    }
+  }
+}

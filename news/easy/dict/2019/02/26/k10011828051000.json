@@ -1,0 +1,224 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。",
+          "hyouki": [
+            "活躍"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ズボンなどの、<ruby><rb>腰</rb><rt>こし</rt></ruby>をしめる<ruby><rb>帯</rb><rt>おび</rt></ruby>。ベルト。",
+          "hyouki": [
+            "バンド"
+          ]
+        },
+        {
+          "def": "はばの<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>平</rb><rt>ひら</rt></ruby>たいひも。",
+          "hyouki": [
+            "バンド"
+          ]
+        },
+        {
+          "def": "<ruby><rb>楽団</rb><rt>がくだん</rt></ruby>や<ruby><rb>楽隊</rb><rt>がくたい</rt></ruby>。",
+          "hyouki": [
+            "バンド"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ほめる。たたえる。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "ほうび。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "<ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。",
+          "hyouki": [
+            "賞"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などの<ruby><rb>音声情報</rb><rt>おんせいじょうほう</rt></ruby>を<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>にして<ruby><rb>記録</rb><rt>きろく</rt></ruby>した<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>。",
+          "hyouki": [
+            "CD"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "まげる。まがる。",
+          "hyouki": [
+            "曲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>のメロディー。",
+          "hyouki": [
+            "曲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>わざ。",
+          "hyouki": [
+            "曲"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>って<ruby><rb>得</rb><rt>え</rt></ruby>たお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "売り上げ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などをはっておく<ruby><rb>帳面</rb><rt>ちょうめん</rt></ruby>。",
+          "hyouki": [
+            "アルバム"
+          ]
+        },
+        {
+          "def": "いくつかの<ruby><rb>曲</rb><rt>きょく</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めた<ruby><rb>CD</rb><rt>シーディー</rt></ruby>など。",
+          "hyouki": [
+            "アルバム"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "かわいがる。",
+          "hyouki": [
+            "愛する"
+          ]
+        },
+        {
+          "def": "<ruby><rb>好</rb><rt>す</rt></ruby>きだ。<ruby><rb>好</rb><rt>この</rt></ruby>む。",
+          "hyouki": [
+            "愛する"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "愛する"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ]
+    }
+  }
+}
