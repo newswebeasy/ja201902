@@ -1,0 +1,194 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>登</rb><rt>のぼ</rt></ruby>るときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "はしご"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>さが<ruby><rb>長</rb><rt>なが</rt></ruby>くなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>んでいたものが、ぴんとなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>曲</rb><rt>ま</rt></ruby>がっていたものが、まっすぐになる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生長</rb><rt>せいちょう</rt></ruby>する。<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>する。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "さかんになる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "もっとよくなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "つかれて<ruby><rb>動</rb><rt>うご</rt></ruby>けなくなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>火事</rb><rt>かじ</rt></ruby>を<ruby><rb>消</rb><rt>け</rt></ruby>したり、<ruby><rb>火災</rb><rt>かさい</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりすること。",
+          "hyouki": [
+            "消防"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "じくを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>る<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。",
+          "hyouki": [
+            "車"
+          ]
+        },
+        {
+          "def": "くるまのついた<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "車"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>くする。",
+          "hyouki": [
+            "伸ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>んだものをまっすぐにする。また、<ruby><rb>広</rb><rt>ひろ</rt></ruby>げる。",
+          "hyouki": [
+            "伸ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>曲</rb><rt>ま</rt></ruby>がったものをまっすぐにする。",
+          "hyouki": [
+            "伸ばす"
+          ]
+        },
+        {
+          "def": "もっとよくする。",
+          "hyouki": [
+            "伸ばす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>さが<ruby><rb>長</rb><rt>なが</rt></ruby>くなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>んでいたものが、ぴんとなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>曲</rb><rt>ま</rt></ruby>がっていたものが、まっすぐになる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生長</rb><rt>せいちょう</rt></ruby>する。<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>する。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "さかんになる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "もっとよくなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "つかれて<ruby><rb>動</rb><rt>うご</rt></ruby>けなくなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>市庁</rb><rt>しちょう</rt></ruby>。",
+          "hyouki": [
+            "市役所"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。",
+          "hyouki": [
+            "マンション"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ゴムやビニルなどで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ガスや<ruby><rb>水</rb><rt>みず</rt></ruby>などを<ruby><rb>送</rb><rt>おく</rt></ruby>るための<ruby><rb>管</rb><rt>くだ</rt></ruby>。",
+          "hyouki": [
+            "ホース"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ]
+    }
+  }
+}

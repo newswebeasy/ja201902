@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011828001000",
+  "news_prearranged_time": "2019-02-27 11:30:00",
+  "title": "うその電話やメール　お年寄り以外の人もお金をとられる",
+  "title_with_ruby": "うその<ruby>電話<rt>でんわ</rt></ruby>やメール　お<ruby>年寄<rt>としよ</rt></ruby>り<ruby>以外<rt>いがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>もお<ruby>金<rt>かね</rt></ruby>をとられる",
+  "outline_with_ruby": "<p>うその<ruby>電話<rt>でんわ</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0000'>メール</a>などで<a href='javascript:void(0)' class='dicWin' id='id-0002'>だまし</a>て、お<ruby>金<rt>かね</rt></ruby>をとる<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>詐欺<rt>さぎ</rt></ruby></a>が<ruby>続<rt>つづ</rt></ruby>いています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190226/../20190226/K10011828001_1902260537_1902260754_01_03.jpg",
+  "news_web_movie_uri": "k10011828001_201902260537_201902260754.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011828001000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011828001000/k10011828001000.html"
+}
